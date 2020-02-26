@@ -6,7 +6,7 @@ To run this app normally, we would just use:
 
 `node server.js` and check `http://localhost:8080/`
 
-To run it in an extremely overpowered hellow world Kubernetes cluster:
+To run it in an extremely overpowered hello world Kubernetes cluster:
 
 # Build Docker Image & Deploy
 1. `minikube start --vm-driver=xhyve` - start minikube locally
